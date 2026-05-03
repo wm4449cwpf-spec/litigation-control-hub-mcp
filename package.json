@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": { "start": "tsx server.ts" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "cors": "latest",
+    "express": "latest",
+    "tsx": "latest",
+    "zod": "latest"
+  }
+}
